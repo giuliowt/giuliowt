@@ -7,5 +7,5 @@
   <br>
 - 💬 Find me on Linkedin: https://www.linkedin.com/in/giulio-cacciapuoti-1b3724303/
   <br>
-- 📫 How to reach me: giuliocacciapuoti1@gmail.com
+- 📫 Or you can contact me at <ins>giuliocacciapuoti1@gmail.com</ins>
 </p>
