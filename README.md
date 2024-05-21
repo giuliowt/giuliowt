@@ -5,7 +5,7 @@
 <p>
 - 🌱 Currently studying 'sicurezza dei sistemi e delle reti informatiche' in Milan
   <br>
-- 🔭 Interested in Network Engineering and Coding
+- 🔭 Interested in Networking and Coding
   <br>
 - 💬 Find me on Linkedin: https://www.linkedin.com/in/giulio-cacciapuoti-1b3724303/
   <br>
