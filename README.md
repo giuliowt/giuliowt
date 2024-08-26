@@ -20,6 +20,7 @@
   <img width=75px src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
   <img width=75px src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
   <img width=75px src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
+  <img width=75px src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000">
   <img width=75px src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
 </p>
 
